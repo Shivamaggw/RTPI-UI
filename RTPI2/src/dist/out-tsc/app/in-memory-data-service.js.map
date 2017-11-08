@@ -1,0 +1,1 @@
+{"version":3,"file":"in-memory-data-service.js","sourceRoot":"","sources":["../../../app/in-memory-data-service.ts"],"names":[],"mappings":";AACA,wBAAiC,gCAAgC;IAAjE;IAOA,CAAC;IANA,sCAAQ,GAAR;QACC,IAAM,OAAO,GAAG;YACN,EAAE,KAAK,EAAE,OAAO,EAAG,KAAK,EAAE,IAAI,EAAE;SAChC,CAAC;QACN,MAAM,CAAC,EAAC,OAAO,SAAA,EAAC,CAAC;IACvB,CAAC;IACF,0BAAC;AAAD,CAAC,AAPD,IAOC;AAPY,kDAAmB"}
